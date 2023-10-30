@@ -1,0 +1,97 @@
+body{
+    background-color: lightgrey;
+}
+
+.navbar-brand img{
+    width: 50px;
+}
+.na{
+    color: white;
+}
+/* .dj-alok{
+    font-size: 25px;
+    color: red;
+} */
+.taitel{
+    color: green;
+}
+/* #taitel{
+    color: green;
+} */
+.box{
+    width: 33%;
+    height: 150px;
+}
+.profile{
+    background-color: white;
+    border-radius: 20px;
+}
+.frist{
+    padding-top: 50px;
+}
+.pic img{
+    width: 100px;
+    height: 100px;
+    display: inline;
+}
+.name {
+    display: inline;
+    font-size:25px;
+    margin-left: 20px;
+    color: purple;
+}
+.players{
+   padding-left: 100px;
+    display: flex;
+}
+.somocha img{
+    width: 250px;
+}
+.moto{
+    color: lightslategrey;
+}
+.patlo {
+    color: purple;
+}
+.danger{
+    color: lightslategray;
+}
+.dav{
+    color: slateblue;
+    padding-left: 20px;
+}
+.card-footer .magic{
+    width: 20px;
+}
+.drack{
+    margin-left: 10px;
+    font-size: 19px;
+}
+.captain{
+    background-color: rgba(245, 100, 100, 0.34);
+    color:rgba(234, 0, 0, 0.785);
+    margin-left: auto;
+    margin-top: 0%;
+    
+}
+.time{
+    width:30px;
+}
+.clock{
+    border-radius: 50px;
+}
+.card{
+    border: none;
+}
+.card-footer{
+    border: none;
+    background-color:white;
+}
+/* footer section */
+.end {
+    color: white;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+  }
